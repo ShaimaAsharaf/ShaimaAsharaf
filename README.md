@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @**Shaima**
 - 🌱 I’m currently learning **Data Analytics**.
-- 💞️ I’m looking to collaborate on projects related to data analytics with others because I always believe that I can get more information, better ideas than I could have    possibly come up with myself. 
+- 💞️ I’m looking to collaborate on projects related to data analytics with others because I always believe that I can get more information, better ideas than I could have    possibly come up with myself. I am looking forward to gain some experience as a beginner.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shaima-asharaf/)
 - 🧑‍🎓 I graduated with a degree in **Electronics and Communication Engineering**.
 - 🚩 I'm currently living in **Gothenburg, Sweden**.
